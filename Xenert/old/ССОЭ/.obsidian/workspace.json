@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "4ffa9e12466c2a94",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac5b4cc8ae141e69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ce1fb0325d00d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/vehicles/WALKER.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77dc0bfc852690e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5acae7ef3c8ff429",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1b90f43a548d515",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc8f9440c248c3ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a3d1d3536d7fd45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "49295b2bcb21a5ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "fab9d5c62641b987",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cea4cc9f833a19e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/vehicles/WALKER.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc26333e6601edab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/vehicles/WALKER.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d406792732bacb14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8a22e4d20129532c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/vehicles/WALKER.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9ce1fb0325d00d09",
+  "lastOpenFiles": [
+    "wiki/Countries/USEC.md",
+    "wiki/Countries/Svewana.md",
+    "wiki/Countries/Sechin Federation.md",
+    "wiki/Countries/Sechin Entantha Colonies.md",
+    "wiki/Countries/Ender commune.md",
+    "wiki/vehicles/WALKER.md",
+    "флаги/Уснистан.png.0.pdnSave",
+    "Карта.pdn.0.pdnSave",
+    "platesonly.pdn.0.pdnSave",
+    "флаги/бс.png.0.pdnSave",
+    "флаги/бс арфа птица.png.0.pdnSave",
+    "флаги/дракон.png.0.pdnSave",
+    "флаги/бсб мечи.png.0.pdnSave",
+    "platesonly.png.0.pdnSave",
+    "wiki/vehicles/WT-3.md",
+    "wiki/vehicles/ЛВМ.md",
+    "старый лор/Вооружение ССОЭ.png",
+    "wiki/The Great Entanth Revolution.md",
+    "wiki/Continents/Entantha.md",
+    "wiki/Continents/South Nisia.md",
+    "wiki/Planets/Selnoturn.md",
+    "wiki/Planets/Mengoth.md",
+    "wiki/Continents/North Nisia.md",
+    "wiki/Planets/Xenert.md",
+    "wiki/vehicles/ШБМ-1.md",
+    "wiki/weapons/SAMG-15.md",
+    "объекты/Автомат.pdn.0.pdnSave",
+    "объекты/history.png.0.pdnSave",
+    "trash/Pasted image 20231009213807.png",
+    "wiki/vehicles/ШБМ-2.md",
+    "trash/Pasted image 20231009201813.png",
+    "trash/Pasted image 20231009201737.png",
+    "trash/Pasted image 20231009201707.png",
+    "старый лор/Марс/Mars.jpg",
+    "wiki/Countries/Blesal.md",
+    "wiki/TIMELINE.md",
+    "wiki/Pasted image 20231007142330.png.md",
+    "wiki/Countries/Usnistan.md",
+    "wiki/Countries/Poolem.md",
+    "для нейронки.png",
+    "trash/Pasted image 20231007142020.png",
+    "trash/Pasted image 20231007143328.png",
+    "trash/Pasted image 20231007143226.png",
+    "2023-10-08.md",
+    "Untitled.canvas",
+    "wiki/Vitaly Ender.md"
+  ]
+}
