@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg" version="1.1"
+     width="360.0" height="185.0">
+    <!-- Created with parliamentarch (https://github.com/Gouvernathor/parliamentarch/) -->
+    <text x="180.0" y="175.0"
+          style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle;font-family:sans-serif">66</text>
+    <g style="fill:#000000"
+       id="0-Anarchist-Party">
+        <title>Anarchist Party</title>
+        <circle cx="15.01" cy="170.28" r="7.78"/>
+        <circle cx="34.49" cy="170.28" r="7.78"/>
+        <circle cx="53.99" cy="170.28" r="7.78"/>
+        <circle cx="73.50" cy="170.28" r="7.78"/>
+        <circle cx="93.04" cy="170.28" r="7.78"/>
+        <circle cx="19.33" cy="141.24" r="7.78"/>
+        <circle cx="39.91" cy="139.48" r="7.78"/>
+        <circle cx="60.27" cy="139.53" r="7.78"/>
+        <circle cx="80.96" cy="139.64" r="7.78"/>
+        <circle cx="28.73" cy="113.42" r="7.78"/>
+        <circle cx="102.24" cy="139.89" r="7.78"/>
+        <circle cx="51.77" cy="110.54" r="7.78"/>
+        <circle cx="73.93" cy="111.27" r="7.78"/>
+        <circle cx="42.89" cy="87.71" r="7.78"/>
+        <circle cx="97.04" cy="112.51" r="7.78"/>
+        <circle cx="69.53" cy="84.79" r="7.78"/>
+        <circle cx="61.39" cy="64.90" r="7.78"/>
+        <circle cx="94.14" cy="87.26" r="7.78"/>
+        <circle cx="121.67" cy="114.78" r="7.78"/>
+        <circle cx="92.37" cy="63.43" r="7.78"/>
+        <circle cx="83.62" cy="45.73" r="7.78"/>
+        <circle cx="120.33" cy="91.25" r="7.78"/>
+        <circle cx="119.64" cy="68.96" r="7.78"/>
+        <circle cx="108.90" cy="30.80" r="7.78"/>
+    </g>
+    <g style="fill:#fb1c1c"
+       id="1-Democratic-Socialist">
+        <title>Democratic Socialist</title>
+        <circle cx="119.24" cy="47.43" r="7.78"/>
+        <circle cx="148.78" cy="98.26" r="7.78"/>
+        <circle cx="148.81" cy="77.70" r="7.78"/>
+        <circle cx="136.42" cy="20.57" r="7.78"/>
+        <circle cx="148.86" cy="57.51" r="7.78"/>
+        <circle cx="148.91" cy="37.52" r="7.78"/>
+    </g>
+    <g style="fill:#c65050"
+       id="2-Social-Democratic">
+        <title>Social Democratic</title>
+        <circle cx="165.32" cy="15.38" r="7.78"/>
+        <circle cx="180.00" cy="92.50" r="7.78"/>
+        <circle cx="180.00" cy="73.06" r="7.78"/>
+        <circle cx="180.00" cy="53.61" r="7.78"/>
+        <circle cx="180.00" cy="34.17" r="7.78"/>
+        <circle cx="194.68" cy="15.38" r="7.78"/>
+        <circle cx="211.09" cy="37.52" r="7.78"/>
+        <circle cx="211.14" cy="57.51" r="7.78"/>
+    </g>
+    <g style="fill:#19dc29"
+       id="3-Socialist">
+        <title>Socialist</title>
+        <circle cx="223.58" cy="20.57" r="7.78"/>
+        <circle cx="211.19" cy="77.70" r="7.78"/>
+        <circle cx="211.22" cy="98.26" r="7.78"/>
+        <circle cx="240.76" cy="47.43" r="7.78"/>
+        <circle cx="251.10" cy="30.80" r="7.78"/>
+        <circle cx="240.36" cy="68.96" r="7.78"/>
+        <circle cx="239.67" cy="91.25" r="7.78"/>
+        <circle cx="276.38" cy="45.73" r="7.78"/>
+        <circle cx="267.63" cy="63.43" r="7.78"/>
+        <circle cx="238.33" cy="114.78" r="7.78"/>
+        <circle cx="265.86" cy="87.26" r="7.78"/>
+        <circle cx="298.61" cy="64.90" r="7.78"/>
+    </g>
+    <g style="fill:#4436e6"
+       id="4-Democratic">
+        <title>Democratic</title>
+        <circle cx="290.47" cy="84.79" r="7.78"/>
+        <circle cx="262.96" cy="112.51" r="7.78"/>
+        <circle cx="317.11" cy="87.71" r="7.78"/>
+        <circle cx="286.07" cy="111.27" r="7.78"/>
+        <circle cx="308.23" cy="110.54" r="7.78"/>
+        <circle cx="257.76" cy="139.89" r="7.78"/>
+        <circle cx="331.27" cy="113.42" r="7.78"/>
+        <circle cx="279.04" cy="139.64" r="7.78"/>
+        <circle cx="299.73" cy="139.53" r="7.78"/>
+        <circle cx="320.09" cy="139.48" r="7.78"/>
+        <circle cx="340.67" cy="141.24" r="7.78"/>
+        <circle cx="266.96" cy="170.28" r="7.78"/>
+    </g>
+    <g style="fill:#4c0e22"
+       id="5-Party-of-Total-Nuclear-Annihilation-of-Capitalism">
+        <title>Party of Total Nuclear Annihilation of Capitalism</title>
+        <circle cx="286.50" cy="170.28" r="7.78"/>
+        <circle cx="306.01" cy="170.28" r="7.78"/>
+        <circle cx="325.51" cy="170.28" r="7.78"/>
+        <circle cx="344.99" cy="170.28" r="7.78"/>
+    </g>
+</svg>
+

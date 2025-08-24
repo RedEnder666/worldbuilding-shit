@@ -1,0 +1,71 @@
+THE GIGAMAP DISCORD SERVER: https://discord.gg/DVyRXAf
+THE OFFICIAL GIGAMAP COLOUR SCHEME https://docs.google.com/spreadsheets/d/1iwAyJ2Tbvd41H-gdzWBvgtJ0RkRw_aiuqkaC6g_vuwM/edit?usp=sharing
+
+GIGAMAP 0.2 CHANGELOG
+============================================	
++ Brand new bathymetry layer and an optional height map
++ Sea colours have been moved to a simple colour pallette 
++ Reworked Tibetan Tusi (kingdoms, chiefdoms, etc) to be as accurate as possible
++ Reworked Alternative Land layer to include inner colours to allow easier filling in
++ A heap of tiny corrections to the map (unfilled land, Bouvet island not being filled, etc.)
++ Improved organisation of the alternative layers
++ Alternative lands moved to a separate file apart from the main file
++ Further modifications to the modern administrative map, adding many first and econd level administrative subdivisions (still not complete however)
+ - USA COUNTIES ARE NOW FINISHED
++ A whole heap of new borders in China, parts of India and Mongolia (Republic of China's counties and municipalities are still WIP)
++ THE INDIAN PRINCELY STATES HAVE BEEN FULLY REDRAWN
++ All layers have been taken out of the gigamap files and organised into their respective folder (to stop from your craptops bricking when trying to run it)
++ The German Confederation borders have been finally redrawn to include as many exclaves as possible (to be as accurate and annoying to draw)
++ New islands that have been accidentally ommitted (such as Linosa island south of sicily)
++ A whole heap of new Insulindian sultanates and borders have been added (hooray for new irrelevant kingdoms)
++ Africa has seen a large increase in borders added
++ Redrawn Yemeni states
++ Merged the TNO borders with the main province map
++ The entire file has been reorganised down from the core, adding many new layers and sidelining some others
+
++ Heaps of new suggestions have been added 
+	- CSA borders from the Southern Victory mod for HOI4
+	- Late Holy Roman Empire borders (1789)
+	- More variants of territorial evolution of Iran
+	- Borders of some /really/ weird seperatist movements in Italy (Adriatica, Padania, etc)
+	- Himalayan border changes for Nepal
+	- Old Nepalese Borders
+	- Bulgaria & the Balkans
+	- Northern Ireland and Wales
+	- Border disputes across the world are added
+	- Post-Colonial Argentina
+	- Trump's "peaceful" plan for new Palestinian borders and a bunch of other stuff in the Levant
+	- Pretty much every potential border possible for the Levant
+	- Too many Indonesian stuff to list
+	- Kurdish proposals and disputes
+	- More border variations for Artsakh to represent its new borders
+	- Late Rattanakosin Kingdom borders
+	- The Frisian region
+	- New Arabian borders 
+	- And many things we forgot to list
+	
++ALL GIGAMAP RELEASES WILL SIMULTANOUSLY RELEASE IN PDN, PSD, AND PNG FORMAT FROM NOW ON
+
+============================================
+CREDITS
+
+the HGO mod for hoi4 for the inspiration and lots of suggestions
+hydre for his moderation work and his work on australia and north america
+marble for his work on coastlines, many borders, reworking asia alltogether and for continuing the project
+yan xishan for his work on china's tusi and other minor states
+chinese mapping for his work on canada and provincework
+atzyn for northern siberia, south america and province work in the middle east
+percepius for his work on quebec, south america, siberia and papua new guinea
+tredens for his work on the west coast of the US, the indian princely states and north-eastern mainland canada
+hob for his work on the east coast of the US
+olympus for his work on northern south america and antarctica
+nutdough for his demonstration maps
+wooosh for extensive help with africa, the middle east and organisation of the files while also suggesting a whole heap of shit
+greenlandfox for their extensive work on the US and many other parts of gigamap
+kailanmapper for his work on india
+tungster for his work on the administrative map
+bonkey for his help with finding lesser known countries and sources for africa
+nickbro for his work on australia
+levike for his work on administrative divisions
+jacobthehillbilly for his work on the US
+
