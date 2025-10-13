@@ -1,0 +1,218 @@
+/* Black-Red Obsidian Theme */
+.theme-dark {
+  --background-primary: #0a0a0a;
+  --background-primary-alt: #111111;
+  --background-secondary: #1a1a1a;
+  --background-modifier-border: #2a2a2a;
+  --background-modifier-form-field: rgba(0, 0, 0, 0.3);
+  
+  /* Red accent colors */
+  --accent-h: 0deg;
+  --accent-s: 85%;
+  --accent-l: 50%;
+  --accent-color: #8b0000;
+  --accent-color-hover: #ff5555;
+  
+  /* Text colors */
+  --text-normal: #e0e0e0;
+  --text-muted: #aaaaaa;
+  --text-faint: #666666;
+  --text-accent: #ff3333;
+  --text-accent-hover: #ff5555;
+  
+  /* Interface elements */
+  --interactive-normal: #2a2a2a;
+  --interactive-hover: #3a3a3a;
+  --interactive-accent: #ff3333;
+  --interactive-accent-hover: #ff5555;
+  
+  /* Borders and highlights */
+  --border-color: #333333;
+  --divider-color: #2a2a2a;
+}
+
+/* Headers with red accents */
+.cm-header-1 {
+  color: #ff3333;
+  border-bottom: 2px solid #ff3333;
+  padding-bottom: 5px;
+}
+
+.cm-header-2 {
+  color: #ff5555;
+  border-left: 3px solid #ff3333;
+  padding-left: 10px;
+}
+
+.cm-header-3 {
+  color: #ff7777;
+}
+
+/* Links */
+.internal-link {
+  color: #ff3333;
+  text-decoration: none;
+  border-bottom: 1px dotted #ff3333;
+}
+
+.internal-link:hover {
+  color: #ff5555;
+  border-bottom: 1px solid #ff5555;
+}
+
+.external-link {
+  color: #ff6666;
+}
+
+/* Code blocks */
+.cm-inline-code {
+  color: #ff9999;
+  background-color: #1a1a1a;
+  border: 1px solid #333333;
+}
+
+pre[class*="language-"] {
+  background-color: #111111;
+  border: 1px solid #333333;
+}
+
+/* Blockquotes */
+.cm-quote {
+  color: #cccccc;
+  border-left: 4px solid #ff3333;
+  background-color: #1a1a1a;
+  padding: 10px;
+  margin-left: 0;
+}
+
+/* Tables */
+th {
+  background-color: #2a2a2a;
+  color: #ff3333;
+  border-bottom: 2px solid #ff3333;
+}
+
+td {
+  border: 1px solid #333333;
+}
+
+tr:nth-child(even) {
+  background-color: #1a1a1a;
+}
+
+/* Sidebar styling */
+.workspace-tabs .workspace-tab-header {
+  color: #aaaaaa;
+}
+
+.workspace-tabs .workspace-tab-header.is-active {
+  color: #ff3333;
+  border-bottom: 2px solid #ff3333;
+}
+
+/* Scrollbars */
+::-webkit-scrollbar-thumb {
+  background-color: #ff3333;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #1a1a1a;
+}
+
+/* Buttons */
+button {
+  background-color: #2a2a2a;
+  color: #e0e0e0;
+  border: 1px solid #333333;
+}
+
+button:hover {
+  background-color: #ff3333;
+  color: #000000;
+}
+
+/* Search highlights */
+.search-result-file-matched-text {
+  background-color: #ff3333;
+  color: #000000;
+}
+
+/* Selection */
+::selection {
+  background-color: #ff3333;
+  color: #000000;
+}
+
+/* Tags */
+.tag {
+  background-color: #2a2a2a;
+  color: #ff3333;
+  border: 1px solid #ff3333;
+}
+
+/* Checkboxes */
+input[type="checkbox"]:checked {
+  background-color: #ff3333;
+  border-color: #ff3333;
+}.wiki-infobox {
+    float: right;
+    margin: 0 0 1em 1em;
+    background: transparent;
+    padding: 0.2em;
+    width: 275px;
+    font-size: 88%;
+    line-height: 1.2em;
+}
+
+.wiki-infobox-header {
+    text-align: center;
+    padding: 0.3em;
+    background: var(--accent-color);
+    font-weight: bold;
+    font-size: 115%;
+    border-radius: 4px;
+    margin-bottom: 0.5em;
+}
+
+.wiki-infobox-row {
+    display: flex;
+    margin-bottom: 0.2em;
+}
+
+.wiki-infobox-label {
+    padding: 0.3em 0.5em;
+    font-weight: bold;
+    flex: 1;
+}
+
+.wiki-infobox-value {
+    padding: 0.3em 0.5em;
+    flex: 2;
+}
+
+.wiki-infobox-image img {
+    max-width: 230px;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Graph View Text */
+.graph-view.color-fill {
+  color: #ff3333;
+}
+
+.graph-view.color-text {
+  color: #ff3333;
+}
+
+.graph-view.color-fill-highlight {
+  color: #ff5555;
+}
+
+.graph-view.color-text-highlight {
+  color: #ff5555;
+}
+
+.graph-view.color-fill-unresolved {
+  color: #8b0000;
+}
