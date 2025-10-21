@@ -16,7 +16,7 @@ Entantha is divided into numerous sovereign states.
 - **[Krestorµa](Krestoriya.md)** A nation sharing revolutionary origins with the USCE, from which it peacefully separated. It is located southwest of the Velkha Mountains.
 
 ### Eastern Entantha
-The region east of the Vesterna Uplands is characterized by a patchwork of nations, often compared to Old Earth's Europe in its political complexity. Major nations include:
+The region east of the Vesterna Uplands is characterized by a patchwork of nations and long history. Major nations include:
 - **Concordia Omnirepublic:** A major liberal democracy and economic power.
 - **Federative Republic of Anthia**
 - **Roiland**

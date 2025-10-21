@@ -1,23 +1,20 @@
+The Sechian Civil War was an armed conflict that took place from 1901 to 1911, resulting in the dissolution of the Sechian Empire. The war involved multiple factions, including the imperial government, a secessionist military junta known as the Warriors' State, and various anti-theocratic revolutionary movements.
 
-The **[Sechian](Sechia) Civil War** was a decade-long period of immense conflict and upheaval that resulted in the total collapse of the centuries-old **Sechian Empire**. It was characterized by a three-way struggle between the Imperial government, a militaristic "Warriors' State," and burgeoning revolutionary movements, culminating in a fundamental reordering of the political landscape across multiple continents.
+## Background
+The Sechian Empire, a long-standing theocratic monarchy, faced internal dissent due to economic disparities, political repression, and religious authoritarianism. In 1901, a faction within the imperial military, the Warriors' State, rebelled against the central government, triggering a wider conflict.
 
-## Overview
+## Major Factions
+### Imperial Faction
+The ruling government of the Sechian Empire, led by the Vessel and supported by the state clergy, sought to preserve the empire's territorial and doctrinal integrity.
 
-The war began as an internal power struggle within the Sechian Empire but rapidly evolved into a revolutionary conflagration. The Empire's brutal and theocratic rule, combined with its failure to address widespread economic hardship and social inequality, had created deep-seated resentment across its territories. The initial conflict between the Imperial throne and a secessionist military faction provided the opening for long-suppressed revolutionary forces to rise up, leading to a multi-front war that the overstretched Empire could not contain.
+### Warriors' State
+A breakaway military faction that declared autonomy in 1901, challenging the imperial authority and contributing to the destabilization of the central government.
 
-## Major Phases & Belligerents
+### Revolutionary Factions
+- **Union of Societist Communes of Entantha (USCE):** A societist movement that declared independence in Western Entantha in 1903, advocating for cooperative ownership and direct democracy.
+- **Legion of Democratic Nations Against Divinity (LDNPB):** An anti-theocratic movement founded in South Nisia in 1911, promoting militant democratic principles.
 
-### The Imperial Faction
-The ruling government of the **Sechian Empire**, centered on the divine authority of the **Vessel** and the state clergy. It fought to maintain the unity of the empire and its theocratic doctrine.
-
-### The Warriors' State
-A schismatic military faction that rebelled in 1901. While its specific ideology is not detailed in public records, its emergence as a distinct military power from within the Imperial structure critically weakened the central government and signaled its vulnerability.
-
-### The Revolutionary Factions
-*   **The [[Union of Societist Communes of Entantha|USCE]]:** A societist movement that declared its revolt in Western Entantha in 1903 with the **[[Declaration of the Communes of Entantha (1903)|Declaration of the Communes]]**. It advocated for the abolition of hierarchy, cooperative ownership, and direct democracy.
-***[The Legion Demokraticzich Natsij Protiv Božestv (LDNPB)](Legion%20Demokraticzich%20Natsij%20Protiv%20Božestv):** An anti-th...eocratic movement founded in South Nisia in 1911, espousing a militant, direct-action form of democracy, summarized by their motto "Moj glas ests pulja" ("My Vote is Fired").
-
-
+## Timeline of Key Events
 
 ```mermaid
 timeline-v
@@ -37,15 +34,26 @@ timeline-v
       1919 : Western Entantha: USCE declares formal<br>independence from the Sechian Empire
 ```
 
-# Aftermath & Legacy
 
-The war's conclusion in 1911 saw the complete dissolution of the Sechian Empire and the birth of new, ideologically opposed states:
+## Phases of the Conflict
+### Initial Phase (1901–1903)
+The conflict began as a military rebellion by the Warriors' State, weakening the imperial structure and creating opportunities for broader opposition.
 
-- **The [[Sechian Federation]]:** Founded by Dmitry Chistkin, this successor state claims divine heirship to the Empire and maintains its theocratic structure through institutions like the **[[Holy Directorate of State Loyalty]]**.
-    
-- **The [[Union of Societist Communes of Entantha]]:** A revolutionary **societist** state that formalized its independence in 1919. It built a new society based on communal resource allocation and cooperative labor.
-    
-- **The [[Legion Demokraticzich Natsij Protiv Božestv]]:** A powerful anti-theocratic force in South Nisia, representing a third ideological pole born from the empire's collapse.
-    
+### Revolutionary Phase (1903–1908)
+The USCE's Declaration of the Communes in 1903 formalized its secession, opening a second front. The war expanded into an ideological struggle over governance and societal organization.
 
-The Sechian Civil War remains the defining event of modern history on [[Xenert]], setting the stage for ongoing ideological and political tensions in the post-imperial era.
+### Collapse of the Empire (1909–1911)
+The death of the Vessel in 1911 led to the disintegration of imperial authority, resulting in the fragmentation of the empire.
+
+### Post-Imperial Consolidation (1911–1919)
+The war transitioned into a period of border conflicts and diplomatic negotiations as successor states established their sovereignty. The USCE formally declared independence in 1919.
+
+## Aftermath
+The war concluded with the emergence of new political entities:
+- **Sechian Federation:** A successor state claiming continuity with the empire, founded by Dmitry Chistkin.
+- **Union of Societist Communes of Entantha:** A societist state based on communal resource allocation and cooperative governance.
+- **Legion of Democratic Nations Against Divinity:** An anti-theocratic force that consolidated power in South Nisia.
+
+The Sechian Civil War is widely regarded as a pivotal event in modern history, reshaping the geopolitical landscape and establishing enduring ideological divisions.
+
+
