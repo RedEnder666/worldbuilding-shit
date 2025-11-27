@@ -9,7 +9,7 @@ he sees a sign in german, and it says "Ein blödes Nazi-Schild mit Nazi-Scheiße
 in objective reality it may say "Rauchen verboten. Bereich der Höllenpforten!" it's not just general nonsense, it's his opinion of Nazis - every german text in the game is a vulgar joke against Nazis.
 
 THE CONFLICT:
-Nazi "Höllearschbacken" Project: Using occult science, they've learned to open temporary portals to a demonic dimension, using it as a bunker to survive the erasure.
+Nazi "Höllen-Arschbacken-Projekt" Project: Using occult science, they've learned to open temporary portals to a demonic dimension, using it as a bunker to survive the erasure.
 
 The Unseen's "Grace Shield": An unexplained metaphysical phenomenon. The sheer, focused act of destroying this specific evil generates a temporary field of "significance" that even God's fire cannot touch. It's not faith; it's action that creates salvation. It was always in the universe, even god didn't actually know because the Grace Shield came first.
 
@@ -17,7 +17,67 @@ The Unseen's "Grace Shield": An unexplained metaphysical phenomenon. The sheer, 
 
 ------
 
-The game should have less jumping, somehow, but it should be fast-paced. You're running, shooting, hiding, running, shooting. Not jumping over their heads doing a 180 mid-flight, but also not sitting behind a rock for hours. It should feel like half life with less high-rate-of-fire guns and more overpowered high caliber rifles and something like a normal mosin. Pistols should be useful against demons. Maps should be semi-open - you can see the sky, but you're generally in a town or a city, not an open field or a forest. It should have some basements, too, and the most open levels are inside of hell itself. Brutal TTK, but you're also easy to die. The enemies should miss often when they're operating automatic weapons, so you feel lucky and not like a bullet sponge. Ultimately the game should have nazis losing limbs, blood spilling, and all that.
+The game should have less jumping, somehow, but it should be fast-paced. You're running, shooting, hiding, running, shooting. Not jumping over their heads doing a 180 mid-flight, but also not sitting behind a rock for hours. It should feel like half life with less high-rate-of-fire guns and more overpowered high caliber rifles and something like a normal mosin. Yeah, should feel like Half Life 1 in terms of fighting being mostly horizontal, but sometimes vertical, but change the Half Life 1 closed corridors for Half Life 2-like town areas, and some hell.
+
+Pistols should be useful against demons. Maps should be semi-open - you can see the sky, but you're generally in a town or a city, not an open field or a forest. It should have some basements, too, and the most open levels are inside of hell itself. Brutal TTK, but you're also easy to die. The enemies should miss often when they're operating automatic weapons, so you feel lucky and not like a bullet sponge. Ultimately the game should have nazis losing limbs, blood spilling, and all that.
 
 Divine wrath comes as the end of the level, after which you appear in the same level, except destroyed like after a nuke, and everything is dark, empty. No enemies, no NPCs, no music. You can only see a portal you walk into, which gets you to the next level.
 
+There are nazi facilities in hell.
+Hell actively wants to spit him out. The hellish timer is actively trying to kick the Unseen back into life because he's not qualified for hell. Nazis, even alive nazis, are perfectly blanding in with Hell fauna. They're basically locals. Unseen is rejected by hell for not being evil enough.
+
+the shield is not actually a real-time mechanic, it's a bar you can't see(but the colorcorrection gets more colors the more you charged your shield), and you only finish the level if it's filled out. Otherwise the divine wrath kills you and you start the level again. Oh and, divine wrath actually destroys all color you brought back because the Unseen actually loves the land, the buildings, the animals, the plants, everything. God kills it all in the area. Divine wrath will come anyway when the timer comes, the question is - did you kill enough nazis up to the moment? 
+Basically there are 2 things:
+God's timer, and Shield-o-meter.
+You need to fill the 2nd before the 1st runs out. In hell, you race against a timer of you being spat out. Just one timer, but killing nazis makes it slightly faster so you need to either be very quick, or kill less nazis - stealth.
+
+You'll be finding weapons, but you can only take 3 with you to the next level, and you need to choose them before the timer is over, too, or it will be the first 3 you picked up. The rest are being unmade. You can do it on every level.
+
+I think the divine wrath is always an unsaturated silent nuke, maybe made of darkness. It's just a level-ending mechanic. If it was different, it would be to break the expectations for a bossfight with god himself, and im not planning that, because the idea is that you need to destroy their portals while in hell, and Unseen thinks he'll stay in hell because he's a murderer and he probably wasn't the best person before the ww2 either. But,  against his judgements, he gets spit out of hell somewhere in Berlin, while in the sky, the god's eyes move from the east to be right above the city. Now he's in the heartland of the nazi empire. You'll need to get to Reichstag, follow the Unholy Trinity (Hitler Himmler, Goebbels) to hell in their last portal generating machine in hell, forever locking the nazi high command in there.
+
+Also, lorewise before this moment he never was spit out of hell before, because that would mean you're in open field with no nazis and therefore no grace shield against next wrath wave, so you die, which is a noncanon failure state unless it's a scripted scene that has gameplay afterwards and continues the progression. Basically, Unseen has no idea the hell spits him out because canonically he obviously can't respawn, it's the thing only you can see.
+
+
+
+Fuhrerarschflammesoldaten: Close-Range / Area Denial. Patrols key chokepoints. High health, slow movement. Weak spot: Fuel tank on back (explodes).
+
+Fuhrerbleivergiftungtruppe: Mid-Range / Sustained Fire. Basic infantry. Uses cover. Keeps the player pinned.
+
+Selbstmord-Blechdose Panzerdivision: A tank. A literal tank you need to take down either with an anti-tank recoilless rifle(hit the area of the engine with it), with explosives dropped under it, or by approaching the tank directly, and doing a melee attack, which causes the Unseen to open the hatch and pull a nazi out of it, and melee kill. Two Fuhrerbleivergiftungtruppe then come out of the tank - because sometimes you got no ammo and a death wish.
+
+Demon: Long-Range Threat / Mobile Melee. Hovers at a distance, emits a screech and a red "eye" glow when it spots the player. Then dives in a complex, zig-zag pattern for a claw swipe. Must be dodged.
+
+
+-----------
+Hitler gets no boss battles. you can see him on TVs all around the game, spectral projections in hell and he's doing his angry ranting in german, but what the Unseen hears is sort of like 
+"Die Idee mit dem Schnurrbart habe ich von Charlie Chaplin geklaut, weil er einfach genial und beliebt ist und ich unsicher bin, und außerdem habe ich nur einen Hoden und einen Mikropenis!!! Ich ging zum Arzt, der sagte, ich hätte einen Mikropenis, aber der Arzt war Jude, also haben wir ihn hingerichtet!!! Dann sagte ein Arzt aus Norwegen, ich hätte einen Mikropenis und nur einen Hoden! Also haben wir einem stattlichen polnischen Mann den Penis abgeschnitten! Aber die Ärzte sagen, dass es so etwas wie eine Penis-Tauschoperation nicht gibt!"
+
+
+
+why would hitler say that? in objective reality, he didn't. Is the objective reality fun? No!
+ --------
+
+after each belarus goes a hell level and then belarus  again, it's not 3 acts, belarus-hell-berlin it's that the first act is purely belarus, the second one is constant portal hopping, and third one is berlin
+
+
+
+-------
+weapons
+
+mosin nagant
+self explanatory 
+BANG
+shhlk-tchk tchk
+BANG
+shhhhlk tchk tchk
+
+Bleivergiftungspistole
+(mp40)
+TRTRTRTRTRTRTR
+not very effective, terrible range and can't hit shit
+only good in movement, otherwise you're getting hit first 
+
+VerdammtGroßesGewehr aka VGG  (Rheinmetall RMK30)
+wait where did the enemy and four meters of space behind them go? you operate it from THE SHOULDER. it's NOT stationary, Unseen does not know how to use it "correctly" he only knows that trigger goes boom in the tube direction 
+
+"Führer-Selbstmordpistole 45" FS45 - a pistol. self explanatory
