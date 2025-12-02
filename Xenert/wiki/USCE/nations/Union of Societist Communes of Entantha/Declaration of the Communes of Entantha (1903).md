@@ -87,6 +87,3 @@ It remains a sacred text within the USCE, frequently invoked in political discou
 > In unity,  
 > For the victims of the past.  
 > For the children of the Future.
-
-# See also:
-[[Theopsychosis]]

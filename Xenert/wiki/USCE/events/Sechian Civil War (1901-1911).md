@@ -1,7 +1,7 @@
-The [[Sechia|Sechian]]Civil War was an armed conflict that took place from 1901 to 1911, resulting in the dissolution of the [[Sechia|Sechian Empire]]. The war involved multiple factions, including the imperial government, a secessionist military junta known as the Warriors' State, and various anti-theocratic revolutionary movements.
+The Sechian Civil War was an armed conflict that took place from 1901 to 1911, resulting in the dissolution of the Sechian Empire. The war involved multiple factions, including the imperial government, a secessionist military junta known as the Warriors' State, and various anti-theocratic revolutionary movements.
 
 ## Background
-The [[Sechia|Sechian Empire]], a long-standing theocratic monarchy, faced internal dissent due to economic disparities, political repression, and religious authoritarianism. In 1901, a faction within the imperial military, the Warriors' State, rebelled against the central government, triggering a wider conflict.
+The Sechian Empire, a long-standing theocratic monarchy, faced internal dissent due to economic disparities, political repression, and religious authoritarianism. In 1901, a faction within the imperial military, the Warriors' State, rebelled against the central government, triggering a wider conflict.
 
 ## Major Factions
 ### Imperial Faction
@@ -57,5 +57,3 @@ The war concluded with the emergence of new political entities:
 The Sechian Civil War is widely regarded as a pivotal event in modern history, reshaping the geopolitical landscape and establishing enduring ideological divisions.
 
 
-# See also:
-[[Theopsychosis]]

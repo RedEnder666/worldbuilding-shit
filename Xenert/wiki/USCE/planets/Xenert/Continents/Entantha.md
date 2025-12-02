@@ -1,4 +1,4 @@
-**Entantha** is a large continent located in the western hemisphere of [[Xenert (Planet)|Xenert]]. It is a politically diverse landmass, home to numerous sovereign states, including the [[Union of Societist Communes of Entantha]]. The continent is named for **Entantha**, the goddess of love and free choice in the ancient Sixthdom (Shestverje) pantheon. It exhibits significant geological and climatic diversity, ranging from equatorial zones to arctic archipelagos.
+**Entantha** is a large continent located in the western hemisphere of [[Xenert]]. It is a politically diverse landmass, home to numerous sovereign states, including the [[Union of Societist Communes of Entantha]]. The continent is named for **Entantha**, the goddess of love and free choice in the ancient Sixthdom (Shestverje) pantheon. It exhibits significant geological and climatic diversity, ranging from equatorial zones to arctic archipelagos.
 
 
 ## Geography

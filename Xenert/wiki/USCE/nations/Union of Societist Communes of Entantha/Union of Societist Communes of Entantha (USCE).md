@@ -25,7 +25,7 @@
 
 <br>
 
-The **Union of Societist Communes of Entantha (USCE)** is a political entity located on the continent of [[Entantha]], founded in the aftermath of the [[Sechian Civil War (1901-1911)]] after breaking free from the Colonial Administration of Entantha Territories of the  [[Sechia|Sechian Empire]]. It operates on principles of cooperative ownership, direct democracy, and equitable resource allocation, forming a distinct **societist** system.
+The **Union of Societist Communes of Entantha (USCE)** is a political entity located on the continent of [[Entantha]], founded in the aftermath of the [[Sechian Civil War (1901-1911)]]. It operates on principles of cooperative ownership, direct democracy, and equitable resource allocation, forming a distinct **societist** system.
 
 ## History
 
@@ -46,6 +46,3 @@ The USCE employs a unique **societist** economic model based on:
 
 * **[[Resource Allocation Regulation]]** - Personal resource point system
 * **[[Cooperatives Regulation]]** - Worker-owned productive units
-
-# See also:
-[[Theopsychosis]]
