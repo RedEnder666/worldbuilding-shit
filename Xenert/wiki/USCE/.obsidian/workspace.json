@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Sechian Civil War (1901-1911)"
             }
+          },
+          {
+            "id": "bbd0036cf5e76272",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0125354045b738a6",
@@ -187,7 +200,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "19041096932bfec0",
+  "active": "bbd0036cf5e76272",
   "lastOpenFiles": [
     "planets/Xenert/Continents/Entantha.md",
     "planets/Xenert/Xenert (Planet).md",
