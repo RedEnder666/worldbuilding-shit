@@ -1,8 +1,0 @@
-Fuhrerarschflammesoldaten: Close-Range / Area Denial. Patrols key chokepoints. High health, slow movement. Weak spot: Fuel tank on back (explodes).
-
-Fuhrerbleivergiftungtruppe: Mid-Range / Sustained Fire. Basic infantry. Uses cover. Keeps the player pinned.
-
-Selbstmord-Blechdose Panzerdivision: A tank. A literal tank you need to take down either with an anti-tank recoilless rifle(hit the area of the engine with it), with explosives dropped under it, or by approaching the tank directly, and doing a melee attack, which causes the Unseen to open the hatch and pull a nazi out of it, and melee kill. Two Fuhrerbleivergiftungtruppe then come out of the tank - because sometimes you got no ammo and a death wish.
-
-Demon: Long-Range Threat / Mobile Melee. Hovers at a distance, emits a screech and a red "eye" glow when it spots the player. Then dives in a complex, zig-zag pattern for a claw swipe. Must be dodged.
-

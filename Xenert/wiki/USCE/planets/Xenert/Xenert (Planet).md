@@ -19,8 +19,8 @@ The planetary surface is divided into several major continental landmasses and e
 *   **[[Entantha]]:** A large continent in the western hemisphere, featuring a massive central plain, the rugged Vesterna Uplands, and a complex, fractured eastern coastline.
 *   **[[North Nisia]]:** A continent in the northern mid-latitudes, characterized by vast temperate forests and major river basin systems.
 *   **[[South Nisia]]:** A continent spanning equatorial and southern latitudes, dominated by arid interior plains and dense equatorial jungles.
-*   **[[Fakhra]]:** A largely frozen landmass centered on the southern rotational pole, dominated by glacial ice sheets.
-*   **[[Kanalla]]:** A small, geologically stable continent in the western ocean, known for its topographical consistency.
+*   **[[Fakhra]]:** An arid, deserted continent to the west of Entantha.
+
 
 ## Atmosphere and Climate
 

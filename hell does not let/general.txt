@@ -1,3 +1,5 @@
+# Uskhod
+
 A dynamic FPS shooter against nazis and hell and zombie nazis and demon nazis, all under the watchful eye of the literal old testament god about to unmake the entire area you are in.
 
 The protagonist, "The Unseen", is a faceless, nameless Belarusian anarchist with a death wish. Believes his actions are meaningless, but nazi suffering worths living a little longer.
@@ -19,7 +21,7 @@ The Unseen's "Grace Shield": An unexplained metaphysical phenomenon. The sheer, 
 
 The game should have less jumping, somehow, but it should be fast-paced. You're running, shooting, hiding, running, shooting. Not jumping over their heads doing a 180 mid-flight, but also not sitting behind a rock for hours. It should feel like half life with less high-rate-of-fire guns and more overpowered high caliber rifles and something like a normal mosin. Yeah, should feel like Half Life 1 in terms of fighting being mostly horizontal, but sometimes vertical, but change the Half Life 1 closed corridors for Half Life 2-like town areas, and some hell.
 
-Pistols should be useful against demons. Maps should be semi-open - you can see the sky, but you're generally in a town or a city, not an open field or a forest. It should have some basements, too, and the most open levels are inside of hell itself. Brutal TTK, but you're also easy to die. The enemies should miss often when they're operating automatic weapons, so you feel lucky and not like a bullet sponge. Ultimately the game should have nazis losing limbs, blood spilling, and all that.
+Pistols should be useful against demons. Maps should be semi-open - you can see the sky, but you're generally in a town or a city with barricades and visible obstacles limiting the playable area(HL2 style), not an open field or a forest. It should have some basements, too, and the most open levels are inside of hell itself. Brutal TTK, but you're also easy to die. The enemies should miss often when they're operating automatic weapons, so you feel lucky and not like a bullet sponge. Ultimately the game should have nazis losing limbs, blood spilling, and all that.
 
 Divine wrath comes as the end of the level, after which you appear in the same level, except destroyed like after a nuke, and everything is dark, empty. No enemies, no NPCs, no music. You can only see a portal you walk into, which gets you to the next level.
 
@@ -57,7 +59,7 @@ Hitler gets no boss battles. you can see him on TVs all around the game, spectra
 why would hitler say that? in objective reality, he didn't. Is the objective reality fun? No!
  --------
 
-after each belarus goes a hell level and then belarus  again, it's not 3 acts, belarus-hell-berlin it's that the first act is purely belarus, the second one is constant portal hopping, and third one is berlin
+after each belarus goes a hell level and then belarus. again, it's not 3 acts like belarus-hell-berlin, instead it's that the first act is purely belarus, the second one is constant portal hopping between belarus and hell, and third one is just berlin
 
 
 
