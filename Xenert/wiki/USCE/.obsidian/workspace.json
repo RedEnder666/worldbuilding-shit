@@ -6,7 +6,7 @@
       {
         "id": "7b7cf67c4d2aa85d",
         "type": "tabs",
-        "dimension": 74.33460076045627,
+        "dimension": 48.47908745247148,
         "children": [
           {
             "id": "19041096932bfec0",
@@ -23,38 +23,25 @@
             }
           },
           {
-            "id": "bbd0036cf5e76272",
+            "id": "af6c40d59e7f2e0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "planets/Xenert/Xenert (Planet).md",
+                "file": "planets/Xenert/Continents/Entantha.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xenert (Planet)"
-            }
-          },
-          {
-            "id": "355ecec1dd169f7f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "title": "Entantha"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "0125354045b738a6",
         "type": "tabs",
-        "dimension": 25.665399239543728,
+        "dimension": 51.52091254752852,
         "children": [
           {
             "id": "2837159e1f935156",
@@ -228,18 +215,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "355ecec1dd169f7f",
+  "active": "19041096932bfec0",
   "lastOpenFiles": [
     "planets/Xenert/Continents/Entantha.md",
-    "nations/Union of Societist Communes of Entantha/USCE Commons Coordination Board.md",
-    "nations/Krestoriya.md",
     "nations/Union of Societist Communes of Entantha/Declaration of the Communes of Entantha (1903).md",
     "nations/Union of Societist Communes of Entantha/Declaration of Independence (1919).md",
-    "nations/other geopolitical entities/Legion Demokraticzich Natsij Protiv Božestv.md",
-    "events/Sechian Civil War (1901-1911).md",
-    "planets/Xenert/Xenert (Planet).md",
-    "nations/Sechia/Holy Directorate of State Loyalty.md",
     "nations/Union of Societist Communes of Entantha/Union of Societist Communes of Entantha (USCE).md",
+    "events/Sechian Civil War (1901-1911).md",
+    "Lunara.md",
+    "planets/Xenert/Xenert (Planet).md",
+    "nations/Union of Societist Communes of Entantha/USCE Commons Coordination Board.md",
+    "nations/Krestoriya.md",
+    "nations/other geopolitical entities/Legion Demokraticzich Natsij Protiv Božestv.md",
+    "nations/Sechia/Holy Directorate of State Loyalty.md",
     "nations/Sechia/Sechia.md",
     "img/USCE - NEW.png",
     "Legion.md",
