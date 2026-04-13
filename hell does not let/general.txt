@@ -7,7 +7,7 @@ The protagonist, "The Unseen", is a faceless, nameless Belarusian anarchist with
 PS2-era graphics, 128x128/256x256 textures, etc
 
 
-The protagonist doesn't understand German. So the Nazi radio chatter, their screams, their commands—they are all garbled, distorted, and filtered, but also the visuals - things that are written, said, or named - be it un UI, the game docs, or textures, are his interpretations, not objective reality. It's not a translation from German, it's a text in german, but it's not the real text it's supposed to say - it's opinionated nonsense he assumes it says. It's not a technical "distortion" its just how i will be making assets to begin with
+The protagonist doesn't understand German. So the Nazi radio chatter, their screams, their commands—they are all garbled, distorted, and filtered, but also the visuals - things that are written, said, or named - be it un UI, the game docs, or textures, are his interpretations, not objective reality. It's not a translation from German, it's a text in german, but it's not the real text it's supposed to say - it's opinionated nonsense he assumes it says. It's not a technical "distortion" its just how i will be making assets to begin with. The "real" text isn't stored in the game at all. 
 For example:
 he sees a sign in german, and it says "Ein blödes Nazi-Schild mit Nazi-Scheiße, die du nicht verstehen willst!"
 in objective reality it may say "Rauchen verboten. Bereich der Höllenpforten!" it's not just general nonsense, it's his opinion of Nazis - every german text in the game is a vulgar joke against Nazis.
