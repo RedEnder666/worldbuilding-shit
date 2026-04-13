@@ -4,6 +4,8 @@ A dynamic FPS shooter against nazis and hell and zombie nazis and demon nazis, a
 
 The protagonist, "The Unseen", is a faceless, nameless Belarusian anarchist with a death wish. Believes his actions are meaningless, but nazi suffering worths living a little longer.
 
+PS2-era graphics, 128x128/256x256 textures, etc
+
 
 The protagonist doesn't understand German. So the Nazi radio chatter, their screams, their commands—they are all garbled, distorted, and filtered, but also the visuals - things that are written, said, or named - be it un UI, the game docs, or textures, are his interpretations, not objective reality. It's not a translation from German, it's a text in german, but it's not the real text it's supposed to say - it's opinionated nonsense he assumes it says.
 For example:
