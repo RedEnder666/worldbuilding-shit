@@ -1,4 +1,4 @@
-**Theopsychosis** (from Greek: _theos_, "god" + _psyche_, "mind/soul" + _-osis_, "condition"), formerly a folk diagnosis, is a clinically recognized sub-type of Complex Post-Traumatic Stress Disorder (PTSD-C). It is characterized by a profound existential crisis and subsequent identity restructuring, triggered by the sudden collapse of a foundational theocratic worldview.
+**Theopsychosis** (_theos_, "god" + _psyche_, "mind/soul" + _-osis_, "condition"), formerly a folk diagnosis, is a clinically recognized sub-type of Complex Post-Traumatic Stress Disorder (PTSD-C). It is characterized by a profound existential crisis and subsequent identity restructuring, triggered by the sudden collapse of a foundational theocratic worldview.
 
 ### History and Classification
 
