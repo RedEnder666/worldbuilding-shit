@@ -4,11 +4,14 @@ A dynamic FPS shooter against nazis and hell and zombie nazis and demon nazis, a
 
 The protagonist, "The Unseen", is a faceless, nameless Belarusian anarchist with a death wish. Believes his actions are meaningless, but nazi suffering worths living a little longer.
 
+PS2-era graphics, 128x128/256x256 textures, etc
 
-The protagonist doesn't understand German. So the Nazi radio chatter, their screams, their commands—they are all garbled, distorted, and filtered, but also the visuals - things that are written, said, or named - be it un UI, the game docs, or textures, are his interpretations, not objective reality. It's not a translation from German, it's a text in german, but it's not the real text it's supposed to say - it's opinionated nonsense he assumes it says.
+
+The protagonist doesn't understand German. So the Nazi radio chatter, their screams, their commands—they are all garbled, distorted, and filtered, but also the visuals - things that are written, said, or named - be it un UI, the game docs, or textures, are his interpretations, not objective reality. It's not a translation from German, it's a text in german, but it's not the real text it's supposed to say - it's opinionated nonsense he assumes it says. It's not a technical "distortion" its just how i will be making assets to begin with. The "real" text isn't stored in the game at all. 
 For example:
 he sees a sign in german, and it says "Ein blödes Nazi-Schild mit Nazi-Scheiße, die du nicht verstehen willst!"
 in objective reality it may say "Rauchen verboten. Bereich der Höllenpforten!" it's not just general nonsense, it's his opinion of Nazis - every german text in the game is a vulgar joke against Nazis.
+The idea is that most people, except for germans, do not really speak german. Most players would not read the signs at all. So on the first playtrough nobody even notices it. Then somebody curious translates it.
 
 THE CONFLICT:
 Nazi "Höllen-Arschbacken-Projekt" Project: Using occult science, they've learned to open temporary portals to a demonic dimension, using it as a bunker to survive the erasure.
@@ -40,7 +43,6 @@ I think the divine wrath is always an unsaturated silent nuke, maybe made of dar
 Also, lorewise before this moment he never was spit out of hell before, because that would mean you're in open field with no nazis and therefore no grace shield against next wrath wave, so you die, which is a noncanon failure state unless it's a scripted scene that has gameplay afterwards and continues the progression. Basically, Unseen has no idea the hell spits him out because canonically he obviously can't respawn, it's the thing only you can see.
 
 
-
 Fuhrerarschflammesoldaten: Close-Range / Area Denial. Patrols key chokepoints. High health, slow movement. Weak spot: Fuel tank on back (explodes).
 
 Fuhrerbleivergiftungtruppe: Mid-Range / Sustained Fire. Basic infantry. Uses cover. Keeps the player pinned.
@@ -55,12 +57,10 @@ Hitler gets no boss battles. you can see him on TVs all around the game, spectra
 "Die Idee mit dem Schnurrbart habe ich von Charlie Chaplin geklaut, weil er einfach genial und beliebt ist und ich unsicher bin, und außerdem habe ich nur einen Hoden und einen Mikropenis!!! Ich ging zum Arzt, der sagte, ich hätte einen Mikropenis, aber der Arzt war Jude, also haben wir ihn hingerichtet!!! Dann sagte ein Arzt aus Norwegen, ich hätte einen Mikropenis und nur einen Hoden! Also haben wir einem stattlichen polnischen Mann den Penis abgeschnitten! Aber die Ärzte sagen, dass es so etwas wie eine Penis-Tauschoperation nicht gibt!"
 
 
-
-why would hitler say that? in objective reality, he didn't. Is the objective reality fun? No!
+why would hitler say that? in objective reality, he didn't. Is the objective reality fun? No! Kill him? Yes! 
  --------
 
-after each belarus goes a hell level and then belarus. again, it's not 3 acts like belarus-hell-berlin, instead it's that the first act is purely belarus, the second one is constant portal hopping between belarus and hell, and third one is just berlin
-
+after each belarus level goes a hell level and then belarus. It's not 3 acts like belarus-hell-berlin, instead it's that the first act is purely belarus, the second one is constant portal hopping between belarus and hell, and third one is just berlin
 
 
 -------
@@ -71,15 +71,14 @@ self explanatory
 BANG
 shhlk-tchk tchk
 BANG
-shhhhlk tchk tchk
 
 Bleivergiftungspistole
 (mp40)
-TRTRTRTRTRTRTR
 not very effective, terrible range and can't hit shit
 only good in movement, otherwise you're getting hit first 
 
-VerdammtGroßesGewehr aka VGG  (Rheinmetall RMK30)
-wait where did the enemy and four meters of space behind them go? you operate it from THE SHOULDER. it's NOT stationary, Unseen does not know how to use it "correctly" he only knows that trigger goes boom in the tube direction, so you're gonna be running with a massive recoilless rifle on your shoulder, when it's made to be stationary. And you're gonna use it on infantry, when it's an anti tank rifle.
+VerdammtGroßesGewehr aka VGG  (may be Carl Gustaf m/42, M18 57mm "Kromuskit" or PTRS-41)
+wait where did the enemy and the surroounding area go?
+Basically a bigass recoilless rifle, a real life BFG
 
 Führerszukünftigeselbstmordpistole FZS - a pistol. self explanatory. How does he know what happens to Hitler OTL? he doesn't, he just wishes it happened already 
