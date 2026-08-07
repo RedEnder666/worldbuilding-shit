@@ -59,6 +59,8 @@ Hitler gets no boss battles. you can see him on TVs all around the game, spectra
 
 
 why would hitler say that? in objective reality, he didn't. Is the objective reality fun? No! Do we want to listen to real hitler rants? hell fucking no! 
+
+i dont dynamically replace text, its just an art feature in assets themselves
  --------
 
 The engame is that player is supposed to sort of break the final portal in hell while hitler is inside of hell, the Unseen thinks "well thats it, i locked Hitler in here, and i myself am locked in Hell..." right before he's spat out and god is alredy not there
