@@ -4,15 +4,13 @@ The Sechian Civil War was an armed conflict that took place from 1901 to 1911, r
 The Sechian Empire, a long-standing theocratic monarchy, faced internal dissent due to economic disparities, political repression, and religious authoritarianism. In 1901, a faction within the imperial military, the Warriors' State, rebelled against the central government, triggering a wider conflict.
 
 ## Major Factions
-### Imperial Faction
-The ruling government of the Sechian Empire, led by the Vessel and supported by the state clergy, sought to preserve the empire's territorial and doctrinal integrity.
-
-### Warriors' State
-A breakaway military faction that declared autonomy in 1901, challenging the imperial authority and contributing to the destabilization of the central government.
-
-### Revolutionary Factions
+- **Sechian Empire:** The ruling government of the Sechian Empire, led by the Vessel and supported by the state clergy, sought to preserve the empire's territorial and doctrinal integrity.
+- **Warriors' State:** A breakaway military faction that declared autonomy in 1901, challenging the imperial authority and contributing to the destabilization of the central government.
 - **Union of Societist Communes of Entantha (USCE):** A societist movement that declared independence in Western Entantha in 1903, advocating for cooperative ownership and direct democracy.
 - **Legion of Democratic Nations Against Divinity (LDNPB):** An anti-theocratic movement founded in South Nisia in 1911, promoting militant democratic principles.
+- **Republic of Zagorjia**
+- **C.S.C. -A.C.S.**
+- **Workers's Movement for World Liberation**
 
 ## Timeline of Key Events
 
@@ -29,7 +27,7 @@ timeline-v
       1911 : The Vessel dies<br>The Sechian Empire ends
       1911 : Sechian Federation founded<br>by Dmitry Chistkin<br>Claims divine heirship
       1911 : Holy Directorate of<br>State Loyalty is created
-      1911 : South Nisia: Legion Demokraticzich Natsij<br>Protiv Božestv (LDNPB) is founded<br>Motto: "Moj glas ests pulja"<br>("My Vote is Fired")
+      1911 : South Nisia: Legion Demokraticzich Natsij<br>Protiv Božestv (LDNPB) is founded<br>Motto: "Moj glas ests pulja"<br>("My Vote is a bullet")
     section Formalizing the New World (1919)
       1919 : Western Entantha: USCE declares formal<br>independence from the Sechian Empire
 ```
@@ -46,13 +44,15 @@ The USCE's Declaration of the Communes in 1903 formalized its secession, opening
 The death of the Vessel in 1911 led to the disintegration of imperial authority, resulting in the fragmentation of the empire.
 
 ### Post-Imperial Consolidation (1911–1919)
-The war transitioned into a period of border conflicts and diplomatic negotiations as successor states established their sovereignty. The USCE formally declared independence in 1919.
+The war transitioned into a period of border conflicts and diplomatic negotiations as successor states established their sovereignty. The USCE formally declared independence in 1919. A loose federation of the most devastated countries of South Nisia formed a Legion of Democratic Nations, lated named LDNPB. General Sosnowsky of the Militarist 2nd Revolutionary Army escapes to LDNPB. Miliarist National Front Movement becomes a political party within LDNPB. Republic of Zagoria, the Communalist Federation of Bregorje was established. Republic of Gorbachia was established. An agricultural nationalist republic of Chernozemya formed. 
 
 ## Aftermath
 The war concluded with the emergence of new political entities:
-- **Sechian Federation:** A successor state claiming continuity with the empire, founded by Dmitry Chistkin.
-- **Union of Societist Communes of Entantha:** A societist state based on communal resource allocation and cooperative governance.
-- **Legion of Democratic Nations Against Divinity:** An anti-theocratic force that consolidated power in South Nisia.
+- **Sechian Federation:** A successor state claiming continuity with the Empire, not the Warriors' State, founded by Dmitry Chistkin.
+- **Union of Societist Communes of Entantha:** A societist state based on communal resource allocation and cooperative governance is founded in the former Entantskiye Territorii colony of Sechia
+- **South Nisia** is split between regionalist movements.
+- **Guardists** completely crushed.
+- **Remains of the Militarist Army* became part of the LDNPB military.
 
 The Sechian Civil War is widely regarded as a pivotal event in modern history, reshaping the geopolitical landscape and establishing enduring ideological divisions.
 

@@ -11,7 +11,7 @@
 </div>
 <div class="wiki-infobox-row">
 <div class="wiki-infobox-label">Capital</div>
-<div class="wiki-infobox-value">Velmira</div>
+<div class="wiki-infobox-value">District Entha</div>
 </div>
 <div class="wiki-infobox-row">
 <div class="wiki-infobox-label">Government</div>
